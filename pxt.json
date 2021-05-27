@@ -1,5 +1,6 @@
 {
     "name": "laura tatiana ",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
